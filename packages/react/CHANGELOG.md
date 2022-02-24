@@ -1,5 +1,16 @@
 # Change Log
 
+## 1.8.6
+
+### Patch Changes
+
+- Updated dependencies
+  [[`e4a990d41`](https://github.com/chakra-ui/chakra-ui/commit/e4a990d41ec4e48a3d92840e0d74cbbf4b17670c),
+  [`d6bed344f`](https://github.com/chakra-ui/chakra-ui/commit/d6bed344f30af50c84d3ed802ec3f0c981586588)]:
+  - @chakra-ui/layout@1.7.7
+  - @chakra-ui/media-query@2.0.4
+  - @chakra-ui/skeleton@1.2.12
+
 ## 1.8.5
 
 ### Patch Changes

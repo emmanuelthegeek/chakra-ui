@@ -1,6 +1,6 @@
 {
   "name": "@chakra-ui/skeleton",
-  "version": "1.2.11",
+  "version": "1.2.12",
   "description": "React component to render a placeholders while you wait for content to load",
   "keywords": [
     "skeleton",
@@ -36,7 +36,7 @@
   },
   "dependencies": {
     "@chakra-ui/hooks": "1.8.4",
-    "@chakra-ui/media-query": "2.0.3",
+    "@chakra-ui/media-query": "2.0.4",
     "@chakra-ui/system": "1.11.1",
     "@chakra-ui/utils": "1.10.4"
   },
